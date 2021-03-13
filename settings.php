@@ -1,6 +1,7 @@
 <?php
 //mi primera modificacion
 session_start();
+// prueba de conflicto
 
 define('APP_PATH', __DIR__ );
 define('BBDD_NAME', 'bdmiguel' );
