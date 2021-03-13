@@ -1,4 +1,5 @@
 <?php
+//mi primera modificacion
 session_start();
 
 define('APP_PATH', __DIR__ );
